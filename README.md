@@ -1,5 +1,5 @@
 ### Features
-project as part of Alura and Oracle's One program, the project is about
+Project as part of Alura and Oracle's One program, the project is about
 - guess a number
 - You have a maximum of three attempts to guess it
 - From the number 1 to 100
@@ -16,5 +16,5 @@ https://app.aluracursos.com/dashboard
 
 ### cascading style sheet
 <p align="center">
-  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="350" title="hover text">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="350" title="hover text">
 </p>
