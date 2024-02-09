@@ -9,7 +9,7 @@ Project as part of Alura and Oracle's One program, the project is about
 
 https://app.aluracursos.com/dashboard
 
-### Developed with:
+## Developed with:
 
 <p>
   <img src="https://images.velog.io/images/kimdlzp/post/c56bd5e7-6060-47c5-b149-83a55675f73b/174854.png" width="330" title="hover" align="left">
