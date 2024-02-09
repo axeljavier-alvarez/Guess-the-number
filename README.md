@@ -16,5 +16,5 @@ https://app.aluracursos.com/dashboard
 
 ### cascading style sheet
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="350" height="200" title="hover text">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="250" height="200" title="hover text">
 </p>
